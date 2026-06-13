@@ -1,8 +1,26 @@
-- Hi, I am Muhammad Waqas. I am a GIS Analyst with more than 2-year experience in the GIS field. I have done many projects from creating GIS maps in Arcgis, Golden Software and QGIS Open source software. I have good knowledge in the creation of maps using Golden Software, Surfer environment, and QGIS open-source environment, Global Mapper, ArcGIS, etc. I have knowledge of database management with GIS data.
-Also, I have done many projects using Google earth Engine.
-I have research interest in Machine Learning,Web GIS, Remote sening and Geospatial Techniques.
-I am looking for someone to work with him on these domains.
-<!---
-Muhammad-Waqas5012/Muhammad-Waqas5012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Muhammad Waqas 👋
+
+🛰️ **GIS & Remote Sensing Researcher** based in Riyadh, Saudi Arabia
+
+I build geospatial pipelines that turn satellite pixels into environmental insights.
+
+MS in Remote Sensing & GIS (CGPA 3.72) · Published in *Earth Surface Processes and Landforms*
+
+## What I work on
+
+- 🌊 GRACE/GRACE-FO groundwater storage analysis (Indus Basin)
+- 🌾 SAR + Optical crop monitoring & yield forecasting (GEE + Python)
+- ⚙️ ArcPy automation for terabyte-scale geospatial data pipelines
+- 🗺️ Enterprise GIS data conversion (OSM → TDS/VPF, defense standards)
+
+## Core Stack
+
+`Python` `ArcPy` `Google Earth Engine` `R` `QGIS` `ArcGIS Pro` `Sentinel` `PostgreSQL`
+
+## Links
+
+📄 Portfolio Website: https://Muhammad-Waqas5012.github.io
+
+🔗 LinkedIn: https://linkedin.com/in/muhammadwaqasjutt
+
+📧 Email: wiftikhar128@gmail.com

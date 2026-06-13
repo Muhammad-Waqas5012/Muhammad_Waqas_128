@@ -19,7 +19,7 @@ MS in Remote Sensing & GIS (CGPA 3.72) · Published in *Earth Surface Processes 
 
 ## Links
 
-📄 Portfolio Website: https://Muhammad-Waqas5012.github.io
+📄 Portfolio Website: https://Muhammad_Waqas.github.io
 
 🔗 LinkedIn: https://linkedin.com/in/muhammadwaqasjutt
 
